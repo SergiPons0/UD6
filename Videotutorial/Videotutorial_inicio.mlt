@@ -1,0 +1,316 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.4.0" title="Shotcut version 22.01.30" producer="main_bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:00:14.400">
+    <property name="length">00:00:14.433</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-1.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">74229a0465c5d8f8a576392101fea6c3</property>
+  </chain>
+  <chain id="chain1" out="00:00:37.933">
+    <property name="length">00:00:37.967</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-2.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3f7bd661211e75733feab450abe0e542</property>
+  </chain>
+  <chain id="chain2" out="00:00:18.267">
+    <property name="length">00:00:18.300</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-3.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">653b9059e27f4571c1ce6c5d61d4a123</property>
+  </chain>
+  <chain id="chain3" out="00:00:19.500">
+    <property name="length">00:00:19.533</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-4.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">eb6ff18d9e4df52e285ba68d5eee3112</property>
+  </chain>
+  <chain id="chain4" out="00:00:33.633">
+    <property name="length">00:00:33.667</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-5.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">82609f1f559ab98acca5226b910fc5e6</property>
+  </chain>
+  <chain id="chain5" out="00:00:11.033">
+    <property name="length">00:00:11.067</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-6.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">531e2b6141a194cfdc09e111a1ad3507</property>
+  </chain>
+  <chain id="chain6" out="00:00:22.033">
+    <property name="length">00:00:22.067</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-7.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a35456607804c486ca307431381bd512</property>
+  </chain>
+  <chain id="chain7" out="00:00:17.700">
+    <property name="length">00:00:17.733</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-8.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">909631e863d53f53ae77c270c717bdc3</property>
+  </chain>
+  <chain id="chain8" out="00:00:20.833">
+    <property name="length">00:00:20.867</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-9.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">39d26e9116ea1b11d217bc939e486f0a</property>
+  </chain>
+  <chain id="chain9" out="00:00:10.200">
+    <property name="length">00:00:10.233</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-10.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">236c862432ad2ff4e74187269652968c</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:14.400"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:37.933"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:18.267"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:19.500"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:33.633"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:11.033"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:22.033"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:17.700"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:20.833"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:00:10.200"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:03:30.600">
+    <property name="length">00:03:30.633</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:03:30.600"/>
+  </playlist>
+  <chain id="chain10" out="00:00:14.400">
+    <property name="length">00:00:14.433</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-1.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">74229a0465c5d8f8a576392101fea6c3</property>
+    <property name="shotcut:caption">Videotutorial-AO-1.webm</property>
+  </chain>
+  <chain id="chain11" out="00:00:37.933">
+    <property name="length">00:00:37.967</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-2.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3f7bd661211e75733feab450abe0e542</property>
+    <property name="shotcut:caption">Videotutorial-AO-2.webm</property>
+  </chain>
+  <chain id="chain12" out="00:00:18.267">
+    <property name="length">00:00:18.300</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-3.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">653b9059e27f4571c1ce6c5d61d4a123</property>
+    <property name="shotcut:caption">Videotutorial-AO-3.webm</property>
+  </chain>
+  <chain id="chain13" out="00:00:19.500">
+    <property name="length">00:00:19.533</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-4.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">eb6ff18d9e4df52e285ba68d5eee3112</property>
+    <property name="shotcut:caption">Videotutorial-AO-4.webm</property>
+  </chain>
+  <chain id="chain14" out="00:00:33.633">
+    <property name="length">00:00:33.667</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-5.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">82609f1f559ab98acca5226b910fc5e6</property>
+    <property name="shotcut:caption">Videotutorial-AO-5.webm</property>
+  </chain>
+  <chain id="chain15" out="00:00:11.033">
+    <property name="length">00:00:11.067</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-6.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">531e2b6141a194cfdc09e111a1ad3507</property>
+    <property name="shotcut:caption">Videotutorial-AO-6.webm</property>
+  </chain>
+  <chain id="chain16" out="00:00:22.033">
+    <property name="length">00:00:22.067</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-7.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a35456607804c486ca307431381bd512</property>
+    <property name="shotcut:caption">Videotutorial-AO-7.webm</property>
+  </chain>
+  <chain id="chain17" out="00:00:17.700">
+    <property name="length">00:00:17.733</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-8.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">909631e863d53f53ae77c270c717bdc3</property>
+    <property name="shotcut:caption">Videotutorial-AO-8.webm</property>
+  </chain>
+  <chain id="chain18" out="00:00:20.833">
+    <property name="length">00:00:20.867</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-9.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">39d26e9116ea1b11d217bc939e486f0a</property>
+    <property name="shotcut:caption">Videotutorial-AO-9.webm</property>
+  </chain>
+  <chain id="chain19" out="00:00:10.200">
+    <property name="length">00:00:10.233</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial-AO-10.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">236c862432ad2ff4e74187269652968c</property>
+    <property name="shotcut:caption">Videotutorial-AO-10.webm</property>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain10" in="00:00:00.000" out="00:00:14.400"/>
+    <entry producer="chain11" in="00:00:00.000" out="00:00:37.933"/>
+    <entry producer="chain12" in="00:00:00.000" out="00:00:18.267"/>
+    <entry producer="chain13" in="00:00:00.000" out="00:00:19.500"/>
+    <entry producer="chain14" in="00:00:00.000" out="00:00:33.633"/>
+    <entry producer="chain15" in="00:00:00.000" out="00:00:11.033"/>
+    <entry producer="chain16" in="00:00:00.000" out="00:00:22.033"/>
+    <entry producer="chain17" in="00:00:00.000" out="00:00:17.700"/>
+    <entry producer="chain18" in="00:00:00.000" out="00:00:20.833"/>
+    <blank length="00:00:04.767"/>
+    <entry producer="chain19" in="00:00:00.000" out="00:00:10.200"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 22.01.30" in="00:00:00.000" out="00:03:30.600">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>

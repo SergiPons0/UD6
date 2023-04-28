@@ -1,0 +1,500 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.4.0" title="Shotcut version 22.01.30" producer="main_bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:00:36.000">
+    <property name="length">00:00:36.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_1.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">708c9d42049774e4c467f37f0329b37c</property>
+  </chain>
+  <chain id="chain1" out="00:00:49.200">
+    <property name="length">00:00:49.217</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_2.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7a7f487400fc75b823b30388cd71728c</property>
+  </chain>
+  <chain id="chain2" out="00:00:26.350">
+    <property name="length">00:00:26.367</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_3.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">94d0473290d4bcbbd5b78a70ff87b61d</property>
+  </chain>
+  <chain id="chain3" out="00:00:27.533">
+    <property name="length">00:00:27.550</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_4.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">44a310cdeeb1b2b0bd428337601c87cf</property>
+  </chain>
+  <chain id="chain4" out="00:00:39.617">
+    <property name="length">00:00:39.633</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_5.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8428f69902610b2282710b0eabcfdd64</property>
+  </chain>
+  <chain id="chain5" out="00:00:18.050">
+    <property name="length">00:00:18.067</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_6.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0bc0c0f78737d38553bcbe899f4cc890</property>
+  </chain>
+  <chain id="chain6" out="00:00:46.650">
+    <property name="length">00:00:46.667</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_7.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4514a9c3224b9528fcbd19a1a792cc42</property>
+  </chain>
+  <chain id="chain7" out="00:00:25.750">
+    <property name="length">00:00:25.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_8.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8236cec061fbb6a8ec904ae0b08433c0</property>
+  </chain>
+  <chain id="chain8" out="00:00:25.567">
+    <property name="length">00:00:25.583</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_9.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d99e77f9e7e985456ad5557cb2f34116</property>
+  </chain>
+  <chain id="chain9" out="00:00:15.233">
+    <property name="length">00:00:15.250</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_10.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29c069b3b235b85d298910238bfe06c6</property>
+  </chain>
+  <playlist id="main_bin" title="Shotcut version 22.01.30">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:36.000"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:49.200"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:26.350"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:27.533"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:39.617"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:18.050"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:46.650"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:25.750"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:25.567"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:00:15.233"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:04:20.933">
+    <property name="length">00:04:20.950</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:04:20.933"/>
+  </playlist>
+  <chain id="chain10" out="00:00:36.000">
+    <property name="length">00:00:36.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_1.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">708c9d42049774e4c467f37f0329b37c</property>
+    <property name="shotcut:caption">Videotutorial_bueno_1.webm</property>
+  </chain>
+  <chain id="chain11" out="00:00:49.200">
+    <property name="length">00:00:49.217</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_2.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7a7f487400fc75b823b30388cd71728c</property>
+    <property name="shotcut:caption">Videotutorial_bueno_2.webm</property>
+  </chain>
+  <tractor id="tractor0" in="00:00:00.000" out="00:00:04.700">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain10" in="00:00:31.300" out="00:00:36.000"/>
+    <track producer="chain11" in="00:00:00.000" out="00:00:04.700"/>
+    <transition id="transition0" out="00:00:04.700">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:04.700">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain12" out="00:00:26.350">
+    <property name="length">00:00:26.367</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_3.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">94d0473290d4bcbbd5b78a70ff87b61d</property>
+    <property name="shotcut:caption">Videotutorial_bueno_3.webm</property>
+  </chain>
+  <tractor id="tractor1" in="00:00:00.000" out="00:00:04.700">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain11" in="00:00:44.500" out="00:00:49.200"/>
+    <track producer="chain12" in="00:00:00.000" out="00:00:04.700"/>
+    <transition id="transition2" out="00:00:04.700">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition3" out="00:00:04.700">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain13" out="00:00:27.533">
+    <property name="length">00:00:27.550</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_4.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">44a310cdeeb1b2b0bd428337601c87cf</property>
+    <property name="shotcut:caption">Videotutorial_bueno_4.webm</property>
+  </chain>
+  <tractor id="tractor2" in="00:00:00.000" out="00:00:04.133">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain12" in="00:00:22.217" out="00:00:26.350"/>
+    <track producer="chain13" in="00:00:00.000" out="00:00:04.133"/>
+    <transition id="transition4" out="00:00:04.133">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition5" out="00:00:04.133">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain14" out="00:00:39.617">
+    <property name="length">00:00:39.633</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_5.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8428f69902610b2282710b0eabcfdd64</property>
+    <property name="shotcut:caption">Videotutorial_bueno_5.webm</property>
+  </chain>
+  <tractor id="tractor3" in="00:00:00.000" out="00:00:04.317">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain13" in="00:00:23.217" out="00:00:27.533"/>
+    <track producer="chain14" in="00:00:00.000" out="00:00:04.317"/>
+    <transition id="transition6" out="00:00:04.317">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition7" out="00:00:04.317">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain15" out="00:00:18.050">
+    <property name="length">00:00:18.067</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_6.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0bc0c0f78737d38553bcbe899f4cc890</property>
+    <property name="shotcut:caption">Videotutorial_bueno_6.webm</property>
+  </chain>
+  <tractor id="tractor4" in="00:00:00.000" out="00:00:03.017">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain14" in="00:00:27.767" out="00:00:30.783"/>
+    <track producer="chain15" in="00:00:00.200" out="00:00:03.217"/>
+    <transition id="transition8" out="00:00:03.017">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition9" out="00:00:03.017">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain16" out="00:00:46.650">
+    <property name="length">00:00:46.667</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_7.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4514a9c3224b9528fcbd19a1a792cc42</property>
+    <property name="shotcut:caption">Videotutorial_bueno_7.webm</property>
+  </chain>
+  <chain id="chain17" out="00:00:25.750">
+    <property name="length">00:00:25.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_8.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8236cec061fbb6a8ec904ae0b08433c0</property>
+    <property name="shotcut:caption">Videotutorial_bueno_8.webm</property>
+  </chain>
+  <tractor id="tractor5" in="00:00:00.000" out="00:00:04.133">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain16" in="00:00:42.517" out="00:00:46.650"/>
+    <track producer="chain17" in="00:00:00.000" out="00:00:04.133"/>
+    <transition id="transition10" out="00:00:04.133">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition11" out="00:00:04.133">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain18" out="00:00:25.567">
+    <property name="length">00:00:25.583</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_9.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d99e77f9e7e985456ad5557cb2f34116</property>
+    <property name="shotcut:caption">Videotutorial_bueno_9.webm</property>
+  </chain>
+  <tractor id="tractor6" in="00:00:00.000" out="00:00:04.500">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain17" in="00:00:21.250" out="00:00:25.750"/>
+    <track producer="chain18" in="00:00:00.000" out="00:00:04.500"/>
+    <transition id="transition12" out="00:00:04.500">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition13" out="00:00:04.500">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain19" out="00:00:15.233">
+    <property name="length">00:00:15.250</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/cicles/Vídeos/Enregistraments de pantalla/Videotutorial_bueno_10.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29c069b3b235b85d298910238bfe06c6</property>
+    <property name="shotcut:caption">Videotutorial_bueno_10.webm</property>
+  </chain>
+  <tractor id="tractor7" in="00:00:00.000" out="00:00:04.500">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain18" in="00:00:21.067" out="00:00:25.567"/>
+    <track producer="chain19" in="00:00:00.000" out="00:00:04.500"/>
+    <transition id="transition14" out="00:00:04.500">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition15" out="00:00:04.500">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain10" in="00:00:00.000" out="00:00:31.283"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:04.700"/>
+    <entry producer="chain11" in="00:00:04.717" out="00:00:44.483"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:04.700"/>
+    <entry producer="chain12" in="00:00:04.717" out="00:00:22.200"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:04.133"/>
+    <entry producer="chain13" in="00:00:04.150" out="00:00:23.200"/>
+    <entry producer="tractor3" in="00:00:00.000" out="00:00:04.317"/>
+    <entry producer="chain14" in="00:00:04.333" out="00:00:27.750"/>
+    <entry producer="tractor4" in="00:00:00.000" out="00:00:03.017"/>
+    <entry producer="chain15" in="00:00:03.233" out="00:00:13.533"/>
+    <blank length="00:00:03.033"/>
+    <entry producer="chain16" in="00:00:04.517" out="00:00:42.500"/>
+    <entry producer="tractor5" in="00:00:00.000" out="00:00:04.133"/>
+    <entry producer="chain17" in="00:00:04.150" out="00:00:21.233"/>
+    <entry producer="tractor6" in="00:00:00.000" out="00:00:04.500"/>
+    <entry producer="chain18" in="00:00:04.517" out="00:00:21.050"/>
+    <entry producer="tractor7" in="00:00:00.000" out="00:00:04.500"/>
+    <entry producer="chain19" in="00:00:04.517" out="00:00:15.233"/>
+  </playlist>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <blank length="00:00:00.017"/>
+  </playlist>
+  <tractor id="tractor8" title="Shotcut version 22.01.30" in="00:00:00.000" out="00:04:20.933">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">0.12629</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <transition id="transition16">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition17">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition18">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition19">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
